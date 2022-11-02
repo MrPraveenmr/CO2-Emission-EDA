@@ -2,13 +2,16 @@
 
 
 About Dataset:
+
 The dataset which I have chosen is that of CO2 emissions with respect to various energy sources in all countries around the world from the year 1980 to the year 2019.CO2 Emission refers to the Carbon Dioxide emitted throughout the world. In this dataset it is broadly categorizing all emitters into one total amount for each energy type. CO2 emissions from the burning of fossil fuels are the primary cause of global warming which happens to be one of the biggest threats facing humanity. Although there are plenty of other emissions that are emitted on this earth, including Methane, nitrous oxide, and CFCs, none compare to the emission of CO2, and we as humans are mostly to blame for this. For this analysis I will be focusing on CO2 Emissions and its effect on the world we live in as well as some key factors and stats that may play a role in the emission of CO2 globally.
 
 Reason for Choosing This Dataset:
+
 The reason behind choosing this dataset is that in this dataset the information is well sorted out and it contains some important factors to precisely measure the Carbon Footprint. In this 21st Century, the imminent threat to all the species on Earth is primarily climate change which is in fact an outcome of over exploitation of resources. 
 To reduce the climate change we should find the carbon dioxide emissions in different parts of the world and also perform an analysis on how different energy resources are causing carbon dioxide emissions, in doing so we can quite accurately find the relationship between the energy resources and the CO2 emissions. This will help us in focusing on the problem where it is severe.
 
 Dataset Structure:
+
 The data set consists of 10 columns which are as follows:
  	Country - Country in question
  	Energy_type - Type of energy source
